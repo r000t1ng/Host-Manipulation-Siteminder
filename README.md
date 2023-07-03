@@ -39,4 +39,4 @@ intitle:"SiteMinder Password Services"
 inurl:"/siteminderagent/forms/login.fcc"
 
 Researchers:
-Ricardo Martins - AKA r00t1ng and Kayky Vinicius - AKA Divsz
+Ricardo Martins - A.K.A r00t1ng and Kayky Vinicius - A.K.A Divsz
