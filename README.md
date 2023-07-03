@@ -37,3 +37,6 @@ Location: https:// {URL INJECT HERE} /affwebservices/secure/secureredirect/?SPID
 intitle:"SiteMinder Password Services"
 
 inurl:"/siteminderagent/forms/login.fcc"
+
+Researchers:
+Ricardo Martins - AKA r00t1ng and Kayky Vinicius - AKA Divsz
